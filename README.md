@@ -1,5 +1,7 @@
 # Pizza Sales Performance Analysis Dashboard 🍕📊
 
+Interactive Power BI dashboard analyzing sales trends, customer behavior, and operational insights from 21K+ pizza orders.
+
 ## Project Overview
 This project focuses on analyzing pizza sales data using Power BI to uncover customer ordering behavior, sales trends, and operational insights.
 
@@ -45,13 +47,15 @@ The dashboard was designed to help understand:
 - Data type formatting
 - Date extraction
 
-### DAX
-- KPI calculations
-- Dynamic titles
-- Calculated columns
-- Day sorting logic
-
 ---
+
+## Technical Highlights
+- Built dynamic titles using DAX measures
+- Created custom day sorting logic for time-based analysis
+- Implemented interactive slicers for filtering insights
+- Used Power Query for cleaning and transforming raw datasets
+- Designed KPI cards for business performance monitoring
+- Applied data modeling relationships for dashboard interactivity
 
 ## Tools Used
 - Power BI
@@ -70,7 +74,6 @@ The dashboard was designed to help understand:
 
 ## Files Included
 - Power BI Dashboard (.pbix)
-- Dashboard Screenshot
 - Dataset Files
 - DAX Measures
 
